@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Set Alarm</string>
+    <string name="set_time">SET TIME</string>
+    <string name="every_day">Every Day</string>
+    <string name="day_sun">SUN</string>
+    <string name="day_mon">MON</string>
+    <string name="day_tue">TUE</string>
+    <string name="day_wed">WED</string>
+    <string name="day_thurs">THU</string>
+    <string name="day_fri">FRI</string>
+    <string name="day_sat">SAT</string>
+    <string name="get_alarm_list">GET LIST</string>
+</resources>
